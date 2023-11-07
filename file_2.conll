@@ -1,0 +1,12 @@
+Hospital	O
+Name	B-SectionHeader
+John	O
+Admission	B-SectionHeader
+Date	I-SectionHeader
+Signed	O
+SECONDARY	B-SectionHeader
+DIAGNOSES	I-SectionHeader
+Vital	B-SectionHeader
+Signs	I-SectionHeader
+Signed	O
+AGE	B-SectionHeader

@@ -1,0 +1,11 @@
+Hospital	O
+History	B-SectionHeader
+of	I-SectionHeader
+Present	I-SectionHeader
+Illness	I-SectionHeader
+:	O
+No	O
+history	O
+of	O
+HTN	O
+BMI	B-SectionHeader
